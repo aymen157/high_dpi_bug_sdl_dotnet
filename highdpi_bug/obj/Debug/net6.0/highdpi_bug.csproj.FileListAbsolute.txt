@@ -1,0 +1,15 @@
+F:\c#_projects\highdpi_bug\bin\Debug\net6.0\highdpi_bug.exe
+F:\c#_projects\highdpi_bug\bin\Debug\net6.0\highdpi_bug.deps.json
+F:\c#_projects\highdpi_bug\bin\Debug\net6.0\highdpi_bug.runtimeconfig.json
+F:\c#_projects\highdpi_bug\bin\Debug\net6.0\highdpi_bug.dll
+F:\c#_projects\highdpi_bug\bin\Debug\net6.0\highdpi_bug.pdb
+F:\c#_projects\highdpi_bug\obj\Debug\net6.0\highdpi_bug.csproj.AssemblyReference.cache
+F:\c#_projects\highdpi_bug\obj\Debug\net6.0\highdpi_bug.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#_projects\highdpi_bug\obj\Debug\net6.0\highdpi_bug.AssemblyInfoInputs.cache
+F:\c#_projects\highdpi_bug\obj\Debug\net6.0\highdpi_bug.AssemblyInfo.cs
+F:\c#_projects\highdpi_bug\obj\Debug\net6.0\highdpi_bug.csproj.CoreCompileInputs.cache
+F:\c#_projects\highdpi_bug\obj\Debug\net6.0\highdpi_bug.dll
+F:\c#_projects\highdpi_bug\obj\Debug\net6.0\refint\highdpi_bug.dll
+F:\c#_projects\highdpi_bug\obj\Debug\net6.0\highdpi_bug.pdb
+F:\c#_projects\highdpi_bug\obj\Debug\net6.0\highdpi_bug.genruntimeconfig.cache
+F:\c#_projects\highdpi_bug\obj\Debug\net6.0\ref\highdpi_bug.dll
